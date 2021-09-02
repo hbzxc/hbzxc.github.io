@@ -96,28 +96,31 @@
   "work": [
     {
       "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "position": "Student Helper",
+      "website": "https://www.soest.hawaii.edu/soestwp/",
+      "startDate": "2020-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Setting up the website, proofreading papers and creating educational videos"
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "GSI Service Group",
+      "position": "IT Systems Specialist",
+      "website": "http://www.gsi-companies.com/",
+      "startDate": "2018-08-015",
+      "endDate": "Present",
+      "summary": "Configuring new machines, setting up new users, troubleshooting and maintenance for existing systems.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Automating administrative tasks"
       ]
     }
+    {
+      "company": "MGM Resorts International",
+      "position": "IT Partner",
+      "website": "",
+      "startDate": "2018-04-01",
+      "endDate": "2018-07-16",
+      "summary": "Swapping out and configuring machines including front desk, accounting and sports betting"
+    },
   ],
   "references": [
     {
