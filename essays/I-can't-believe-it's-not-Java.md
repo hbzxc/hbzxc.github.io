@@ -10,7 +10,7 @@ labels:
 ---
 <img class="ui tiny right spaced image" src="../images/notJava.jpg">
 
- ## I can't believe it's not Java
+ # I can't believe it's not Java
  
  **JavaScript & Java**
    
@@ -21,7 +21,7 @@ labels:
 ## Using JavaScript
 I am just glad that JavaScript has less boilerplate code needed to run a simple program. The first Java class that I took was ICS 211 at UH Manoa I remember thinkning "why would you do this". JavaScript on the otherhand was easy to look at and easy to run. Its also great that most of the time you do not need to set up an enviorment to get started.
 
-## References
+### References
 
 Cargill, Carl F. “Why Standardization Efforts Fail.” _The Journal of Electronic Publishing_ 14, no. 1 (2011). https://doi.org/10.3998/3336451.0014.103](https://doi.org/10.3998/3336451.0014.103).
 
