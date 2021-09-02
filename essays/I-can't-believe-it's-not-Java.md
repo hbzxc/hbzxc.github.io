@@ -10,6 +10,7 @@ labels:
 ---
 <img class="ui tiny right spaced image" src="../images/notJava.jpg">
 
+
  # I can't believe it's not Java
  
  **JavaScript & Java**
@@ -23,6 +24,6 @@ I am just glad that JavaScript has less boilerplate code needed to run a simple 
 
 ### References
 
-Cargill, Carl F. “Why Standardization Efforts Fail.” _The Journal of Electronic Publishing_ 14, no. 1 (2011). https://doi.org/10.3998/3336451.0014.103](https://doi.org/10.3998/3336451.0014.103).
+Cargill, Carl F. “Why Standardization Efforts Fail.” _The Journal of Electronic Publishing_ 14, no. 1 (2011). [https://doi.org/10.3998/3336451.0014.103](https://doi.org/10.3998/3336451.0014.103).
 
 “Complaint : U.S. v. Microsoft Corp.” The United States Department of Justice, May 18, 1998. [https://www.justice.gov/atr/complaint-us-v-microsoft-corp](https://www.justice.gov/atr/complaint-us-v-microsoft-corp).
