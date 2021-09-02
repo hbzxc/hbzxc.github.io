@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "hblazier@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "N/A",
     "website": "https://hbzxc.github.io",
-    "summary": "I am currently working for a company and they wanted me to get a degree",
+    "summary": "I am a CS major and expected to graduated eventually",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -24,37 +24,15 @@
         "network": "linkedin",
         "username": "hblazier",
         "url": "http://linkedin.com/in/hblazier"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "automation",
       "keywords": [
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
@@ -84,10 +62,20 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-27",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "University of Colorado, Boulder, CO",
+      "area": "History (2017)",
+      "studyType": "B.A.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-05-15",
       "gpa": "",
       "courses": [
       ]
@@ -96,69 +84,31 @@
   "work": [
     {
       "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "position": "Student Helper",
+      "website": "https://www.soest.hawaii.edu/soestwp/",
+      "startDate": "2020-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Setting up the website, proofreading papers and creating educational videos"
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "GSI Service Group",
+      "position": "IT Systems Specialist",
+      "website": "http://www.gsi-companies.com/",
+      "startDate": "2018-08-015",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Configuring new machines, setting up new users, troubleshooting and maintenance for existing systems.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Automating administrative tasks"
       ]
-    },
+    }
     {
-      "organization": "",
+      "company": "MGM Resorts International",
+      "position": "IT Partner",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "startDate": "2018-04-01",
+      "endDate": "2018-07-16",
+      "summary": "Swapping out and configuring machines including front desk, accounting and sports betting"
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
