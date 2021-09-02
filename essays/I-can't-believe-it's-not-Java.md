@@ -12,7 +12,7 @@ labels:
 <img class="ui tiny right spaced image" src="../images/notJava.jpg">
   <p>
 <p align="center">
- **I can’t believe it’s not Java**
+ I can’t believe it’s not Java
   <p>
    
 
