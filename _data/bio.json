@@ -74,10 +74,20 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-27",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "University of Colorado, Boulder, CO",
+      "area": "History (2017)",
+      "studyType": "B.A.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-05-15",
       "gpa": "",
       "courses": [
       ]
