@@ -18,7 +18,8 @@ Using several csv files taken from Verizon, TMobile, HDT and Activer Directoy I 
 Then figuring out the colisions assign each user with a set of attributes "Title","Email","Department" etc..
 
 Then assigning these objects properites to a sharepoint list
-```ps
+
+```ps1
 foreach ($Record in $import){
     Write-Host "updating the List for" $Record.'First Name'
     Add-PnPListItem -List "All" -Values @{
