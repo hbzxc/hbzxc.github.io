@@ -21,9 +21,11 @@ summary: I couldn’t be bothered to reach over and turn on my desk light, so I 
 Through various sales on Amazon, I had a smartplug and echodot. To control everything a raspberry pi 3 running openHAB.
 
 1.  **Connect the smart plug to the echo using the provided app.**
+
   	Link to download Alexa in the playstore [Alexa](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US&gl=US)
   
 2.  **Setup an openHAB server on the pi.**
+
 	Setup instructions [https://ubuntu.com/appliance/openhab/raspberry-pi](https://ubuntu.com/appliance/openhab/raspberry-pi)
 
 3.  **Configuring openHAB.**
@@ -45,8 +47,7 @@ headers = {
 data = 'ON'
 setState = requests.post('http://"Your IP":8080/rest/items/AlexaGuardonFirstplug_PowerState', headers=headers, data=data)
    ```
-To check if I was at my desk I have the script ping my desktop and see if its on.
-
+    To check if I was at my desk I have the script ping my desktop and see if its on.
 ```py
 response = os.system("ping -c 3 " + hostname)
 ```
