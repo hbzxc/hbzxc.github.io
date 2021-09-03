@@ -14,8 +14,6 @@ labels:
 summary: A tool for user onboarding and departures
 ---
 
-<img class="ui medium right floated rounded image" src="../images/UBWindow.PNG">
-
 I created a tool for onboarding new hires and departing existing users. It will create and update attributes from the local Active Directory and Azure Active Directory.
 In addition to this it can also backup a users onedrive to an external location.
 
