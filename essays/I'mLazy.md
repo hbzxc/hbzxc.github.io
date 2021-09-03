@@ -5,7 +5,9 @@ title: I'mLazy
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
-  - Engineering
+  - Tag 1
+  - Tag 2
+  - Tag 3
 ---
 
 <img class="ui tiny right spaced image" src="../images/topText.jpg">
