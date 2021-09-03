@@ -24,17 +24,17 @@ Through various sales on Amazon, I had a smartplug and echodot. To control every
   
   Link to download Alexa in the playstore [Alexa](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US&gl=US)
   
-3.  **Setup an openHAB server on the pi.**
+2.  **Setup an openHAB server on the pi.**
 
 	Setup instructions [https://ubuntu.com/appliance/openhab/raspberry-pi](https://ubuntu.com/appliance/openhab/raspberry-pi)
 	
-4.  **Configuring openHAB.**
+3.  **Configuring openHAB.**
   
 	Install the Amazon Echo control binding through openHAB.
 	Connect to the Echo API and authorize openHAB and then search for connected devices.
 	Select the device for automation and note the name.
 
-5. **Write the code.**
+4. **Write the code.**
 
 	On the pi itself I made a python script to see if I was at my desk and then if was past a 
 	certain hour. If the conditions are met the light turns on and when they aren’t it turns off.
@@ -50,10 +50,10 @@ setState = requests.post('http://"Your IP":8080/rest/items/AlexaGuardonFirstplug
    To check if I was at my desk I have the script ping my desktop and see if its on.
 	
 ```py
-	response = os.system("ping -c 3 " + hostname)
+response = os.system("ping -c 3 " + hostname)
 ```
 
-6. **Set it up and test.**
+5. **Set it up and test.**
 
 	Have the code run as a service on the pi so it starts automatically
     
