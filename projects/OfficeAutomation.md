@@ -327,5 +327,6 @@ Will update all logs from the server and save recent files to the server based o
 Removes all modules listed in the PSModules.txt as well as RSAT.txt
 
 
-I removed everything company specific from the scrips and swapped them with temporary names like "Company" or "SomeOtherComapny" 
+I removed everything company specific from the scrips and swapped them with temporary names like "Company" or "SomeOtherComapny"
+
 Source: [https://github.com/hbzxc/UserSetup-Breakdown](https://github.com/hbzxc/UserSetup-Breakdown)
