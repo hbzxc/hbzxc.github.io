@@ -38,7 +38,7 @@ $DefaultPass set the default password
 
 $UserFolderLocation the default folder locations to be created for the user
 
-$CPEFolderLocation default folder locations to be created for CPE users
+$SomeCompanyFolderLocation default folder locations to be created for SomeCompan users
 
 **How to use**
 
@@ -325,5 +325,7 @@ Will update all logs from the server and save recent files to the server based o
 
 **Uninstall**
 Removes all modules listed in the PSModules.txt as well as RSAT.txt
- 
+
+
+I removed everything company specific from the scrips and swapped them with temporary names like "Company" or "SomeOtherComapny" 
 Source: [https://github.com/hbzxc/UserSetup-Breakdown](https://github.com/hbzxc/UserSetup-Breakdown)
