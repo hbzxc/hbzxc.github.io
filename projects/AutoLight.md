@@ -22,7 +22,7 @@ Through various sales on Amazon, I had a smartplug and echodot. To control every
 
 1.  **Connect the smart plug to the echo using the provided app.**
   
-  	Link to download Alexa in the playstore [Alexa](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US&gl=US)
+  Link to download Alexa in the playstore [Alexa](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US&gl=US)
   
 3.  **Setup an openHAB server on the pi.**
 
@@ -50,7 +50,7 @@ setState = requests.post('http://"Your IP":8080/rest/items/AlexaGuardonFirstplug
    To check if I was at my desk I have the script ping my desktop and see if its on.
 	
 ```py
-response = os.system("ping -c 3 " + hostname)
+	response = os.system("ping -c 3 " + hostname)
 ```
 
 6. **Set it up and test.**
