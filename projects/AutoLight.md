@@ -25,7 +25,7 @@ Through various sales on Amazon, I had a smartplug and echodot. To control every
   
 2.  **Setup an openHAB server on the pi.**
 	Setup instructions [https://ubuntu.com/appliance/openhab/raspberry-pi](https://ubuntu.com/appliance/openhab/raspberry-pi)
-	
+
 3.  **Configuring openHAB.**
   
 	Install the Amazon Echo control binding through openHAB.
@@ -46,7 +46,7 @@ data = 'ON'
 setState = requests.post('http://"Your IP":8080/rest/items/AlexaGuardonFirstplug_PowerState', headers=headers, data=data)
    ```
 To check if I was at my desk I have the script ping my desktop and see if its on.
-	
+
 ```py
 response = os.system("ping -c 3 " + hostname)
 ```
