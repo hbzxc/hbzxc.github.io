@@ -10,6 +10,7 @@ labels:
   - Automation
   - pi
   - API
+  - IOT
 summary: I couldn’t be bothered to reach over and turn on my desk light, so I spent 8 hours making it automatic.
 ---
 
