@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/UBWindow.PNG
 title: OfficeAutomation
-permalink: projects/vacay
+permalink: projects/OfficeAutomation
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
