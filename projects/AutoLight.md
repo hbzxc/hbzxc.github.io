@@ -33,7 +33,7 @@ Through various sales on Amazon, I had a smartplug and echodot. To control every
 
 4. **Write the code.**
 
-	On the pi itself I made a python script to see if I was at my desk and then if was past a 
+	On the pi itself I made a python script to see if I was at my desk and then if it was past a 
 	certain hour. If the conditions are met the light turns on and when they aren’t it turns off.
 	When the light is to be turned on you can send a command to openHAB to pass on to Alexa as following
 ```py
