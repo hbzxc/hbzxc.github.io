@@ -6,7 +6,7 @@
     "email": "hblazier@hawaii.edu",
     "phone": "N/A",
     "website": "https://hbzxc.github.io",
-    "summary": "I am a CS major and expected to graduate eventually",
+    "summary": "I have a degree in history with a focus on modern China.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -30,6 +30,9 @@
   "interests": [
     {
       "name": "automation",
+      "name": "bees",
+      "name": "memory timing",
+      "name": "Wood Working",
     }
   ],
   "skills": [
