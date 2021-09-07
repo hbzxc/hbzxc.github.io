@@ -29,7 +29,10 @@
   },
   "interests": [
     {
-      "name": "automation","bees","memory timing","Wood Working"
+      "name": "automation",
+      "name": "bees",
+      "name": "memory timing",
+      "name": "Wood Working"
     }
   ],
   "skills": [
