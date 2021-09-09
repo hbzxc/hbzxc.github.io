@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Why you need to know how to ask a question
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-02
+date: 2021-09-08
 labels:
   - Need to know
   - how to
