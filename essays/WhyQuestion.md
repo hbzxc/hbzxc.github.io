@@ -8,7 +8,7 @@ labels:
   - Need to know
   - how to
 ---
-## Why you need to know how to ask a question
+## Why question ask?
 
 It’s a fact of life that you can’t know everything even though many would claim otherwise. You will need to know how to ask for help. You might think this is simple and it is, don’t be a “loser”. I am referring to the term [Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html) uses to describe people who waste time asking ambiguous or easily found questions on the internet. The internet is a vast resource, odds are the answer to your question are already out there. Taking the time to look for yourself can often save you time as well as save the time of others who could be answering original questions. Anyone would get annoyed having to answer the same question over and over or have to decipher what a question is asking. If you keep asking annoying questions and people reconize that you will be less likely to get a serious response. As such it is in your best interest to ask a concise and focused question. When you ask the internet for help keep in mind that there is most often a person on the other side.
 
