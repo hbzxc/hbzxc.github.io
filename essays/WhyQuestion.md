@@ -13,7 +13,6 @@ labels:
 It’s a fact of life that you can’t know everything even though many would claim otherwise. You will need to know how to ask for help. You might think this is simple and it is, don’t be a “loser”. I am referring to the term [Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html) uses to describe people who waste time asking ambiguous or easily found questions on the internet. The internet is a vast resource, odds are the answer to your question are already out there. Taking the time to look for yourself can often save you time as well as save the time of others who could be answering original questions. Anyone would get annoyed having to answer the same question over and over or have to decipher what a question is asking. If you keep asking annoying questions and people reconize that you will be less likely to get a serious response. As such it is in your best interest to ask a concise and focused question. When you ask the internet for help keep in mind that there is a person on the other side.
 
 ## A well asked question:
-<center>
 “When I try to put something in the () brackets of 
   
  ```java
@@ -33,7 +32,6 @@ I'm confused on what that all means?”
 In addition to this the asker provided the relevant code on stackoverflow in tandem with the question. 
   
 Original question: [https://stackoverflow.com/questions/17749409/actual-or-formal-argument-lists-differs-in-length](https://stackoverflow.com/questions/17749409/actual-or-formal-argument-lists-differs-in-length)
-/<center>
 
 This is very direct and focused question. The asker has an idea of why its not working and has made attempts to rectify the issue to no avail. Showing people that you have taken some initiative on your own to answer the question is a good way to have people empathize with you. You don’t just slap it on the counter point and say “fix”.  
 It shows in the responses people gave. They were able to pinpoint what the issues was (a missing constructor) . 
