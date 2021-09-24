@@ -16,9 +16,8 @@ The implementation of a coding standard can make reviewing and collaborating on 
 Understanding what different pieces of code look like at a glance is incredibly helpful, especially when you haven’t seen your old code in months even years. I recently had to go back and add new functionality to an old program I wrote, most of the time spent on that was trying to remember what everything did. Luckily it was written somewhat consistently. It initially started in one language and transitioned to another so it does have some oddities. It took a day of reviewing the code before I felt comfortable changing it which isn’t too bad but I was the only one who wrote any of it. If someone else had been thrown into the mix and I had to decipher their part which had been written to a different standard, it would probably add another day. This issue scales up with more people. Had it been a large team it would have taken many days to decipher all the different ways people code wasting a lot of time. If everyone follows a set coding standard it makes reviewing code much easier. That way you don’t have to waste time asking people “what is this?”.
 
 ## Mojibake 文字化け
-<img class="ui large right floated rounded image" src="../images/ja_JPUTF-8.png">
+<img class="ui image" src="../images/ja_JPUTF-8.png">
 
-##
 
 Standards are important not only for people working close together but across an industry. The America Standard Code for Information Interchange(ASCII) was first introduced in 1963 and standardized how English would be displayed on computers. This is very early on in the development of the computer as such was adopted without much issue. Japanese on the other hand did not have a set standard for text encoding until 1997. This did not mean that there weren’t options for encoding Japanese before 1997 on contrary there were many. Unfortunately, not all were compatible with each other. This results in the incorrect display of text referred to as mojibake (文字化け) or “character changing”. Example below
 
