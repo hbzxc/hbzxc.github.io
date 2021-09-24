@@ -18,6 +18,8 @@ Understanding what different pieces of code look like at a glance is incredibly 
 ## Mojibake 文字化け
 <img class="ui large right floated rounded image" src="../images/ja_JPUTF-8.png">
 
+##
+
 Standards are important not only for people working close together but across an industry. The America Standard Code for Information Interchange(ASCII) was first introduced in 1963 and standardized how English would be displayed on computers. This is very early on in the development of the computer as such was adopted without much issue. Japanese on the other hand did not have a set standard for text encoding until 1997. This did not mean that there weren’t options for encoding Japanese before 1997 on contrary there were many. Unfortunately, not all were compatible with each other. This results in the incorrect display of text referred to as mojibake (文字化け) or “character changing”. Example below
 
 <img class="ui huge right floated rounded image" src="../images/Mojibake.png">
