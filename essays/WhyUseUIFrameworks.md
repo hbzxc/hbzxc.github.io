@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Easier than not
+title: Better than Nothing
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
 labels:
