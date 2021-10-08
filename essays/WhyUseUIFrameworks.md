@@ -19,9 +19,9 @@ I’ve used WordPress to manage some websites and its very easy to grab a templa
 UI frameworks are steps above raw HTML in terms of ease of use but there are easier ways to get similar results. It is a good tool to have but personally I wouldn’t bother. Below are two sites that use wordpress both look good.
 
 [https://www.rollingstone.com/](https://www.rollingstone.com/)
-![enter image description here](https://make.wordpress.org/marketing/files/2018/12/rollingstone_casestudy_image_1-1024x576.jpg)
+![RStone Page](https://make.wordpress.org/marketing/files/2018/12/rollingstone_casestudy_image_1-1024x576.jpg)
 [https://www.daybreaker.com/](https://www.daybreaker.com/)
-![enter image description here](https://wordpress.com/mshots/v1/http://www.daybreaker.com/?w=1036)
+![DBreaker Page](https://wordpress.com/mshots/v1/http://www.daybreaker.com/?w=1036)
 
 I honestly haven’t worked enough with building web pages to have an informed opinion on UI frameworks I have only used one (semantic UI). I also started making pages with a graphical interface which probably leads to some bias. Right now I just don’t see why you would make things this way. I suppose its similar to the people who want to do everything in a command line, but I have the same reaction to them “why?”.
 
