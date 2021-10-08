@@ -25,8 +25,8 @@ UI frameworks are steps above raw HTML in terms of ease of use but there are eas
 
 I honestly haven’t worked enough with building web pages to have an informed opinion on UI frameworks I have only used one (semantic UI). I also started making pages with a graphical interface which probably leads to some bias. Right now I just don’t see why you would make things this way. I suppose its similar to the people who want to do everything in a command line, but I have the same reaction to them “why?”.
 
-### What Is A UI Framework?
-I wrote the above section and though “I don’t really know what a UI Framework is”. Looking it up didn’t really provide any clarity the definition seems very loose.
+## What Is A UI Framework?
+I wrote the above section and thought “I don’t really know what a UI Framework is”. Looking it up didn’t really provide any clarity the definition seems very loose.
 
 Below is what my professor defines it as:
 
