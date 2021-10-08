@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: Easier than not
+# All dates must be YYYY-MM-DD format!
+date: 2021-10-07
+labels:
+  - UI Framework
+  - Semantics
+  - Lead a horse to water
+---
+
 ## Needlessly Drowning
 
 If you were on a leaking ship and bailing water with your hands and someone throws you a plastic cup. You would gladly take it since it does help. However a plastic cup is most likely not your first option. This is how I feel about working with HTML and UI frameworks. One is slightly better than the other but I would rather not use it at all (give me a pump). I am not making any websites to stand out but just convey information. For this there are multiple tools; WIX, squarespace, zyro, ukit the list goes on. All of these provide a graphical interface for placing elements, changing fonts, and previewing the site.
@@ -25,4 +37,4 @@ A (web) UI framework provides a set of CSS classes and/or Javascript functions t
  - Provide consistent results across browsers
  
 
-Using this definition I would think wordpress and any of the site building resources I mentioned would qualify as UI Frameworks. These are immensely different experiences when comparing them to semantic UI. As such I don’t think it makes much sense to generalize UI frameworks. If I narrow it down to specifically UI frameworks like Semantic UI I stand by my above statement. Its better than raw HTML but there are better options. Regardless of the semantics UI frameworks just makes things easier it's what defines them.
+Using this definition I would think wordpress and any of the site building resources I mentioned would qualify as UI Frameworks. These are immensely different experiences when comparing them to semantic UI. As such I don’t think it makes much sense to generalize UI frameworks. If I narrow it down to specifically UI frameworks like Semantic UI I stand by my above statement. Its better than raw HTML but there are better options. Regardless of the semantics UI frameworks just makes things easier it's what defines them. You should use them.
