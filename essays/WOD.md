@@ -13,6 +13,7 @@ Most of the issues I have with this class stem from the grading of the WOD’s. 
 He gave me two answers
 
 1) Typing “done” helps to give the instructor an indication on everyone’s progress and if everyone is finished to end the WOD early.
+
 2) Some companies have similar submittal systems, so this is good experience for the future.
 
 He further elaborated that that he had worked for a company that had a strict submittal system and left that job and prefers teaching. His advice on preventing premature submittals was to not type done until the very end and use all the time to check your code. This is good advice for they way WODs are submitted but does come into direct conflict with the first purpose of typing done. This wasn’t exactly a compelling explanation for why this system is in place. If I was your employee and that was the way you wanted to me to do things that’s fine probably not the best company but at least I’m being compensated. However, I currently have the privilege of paying for that experience. I realize that Mr. Moore’s response was off the cuff as such I would like to see if there is a more succinct explanation for this system.
