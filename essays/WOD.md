@@ -17,7 +17,6 @@ He gave me two answers
 
 He further elaborated that that he had worked for a company that had a strict submittal system and left that job and prefers teaching. His advice on preventing premature submittals was to not type done until the very end and use all the time to check your code. This is good advice for they way WODs are submitted but does come into direct conflict with the first purpose of typing done. This wasn’t exactly a compelling explanation for why this system is in place. If I was your employee and that was the way you wanted to me to do things that’s fine probably not the best company but at least I’m being compensated. However, I currently have the privilege of paying for that experience. I realize that Mr. Moore’s response was off the cuff as such I would like to see if there is a more succinct explanation for this system.
 
-## Respect Should Be Earned
 I chose to write this now because I’ve been thinking about this section of the announcement Mr. Johnson posted in the discord for the past few weeks. It is in reference to committing code after typing done.
 
 “If some of you are thinking, “I’m going to get a zero anyway, so it doesn’t matter”, you are wrong: it does matter because you are explicitly ignoring a request from Cam, Branden and I. It’s disrespectful to us.”
