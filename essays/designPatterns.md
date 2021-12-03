@@ -28,9 +28,6 @@ while 0==0:
   # compensated_reading object
   bmeData = bme280.sample(bus, address, calibration_params)
   tempF = (round(bmeData.temperature+1)*(9.0/5.0)+32)
-  print(tempF)
-  print(bmeData.temperature+1)
-  print(round(tempF))
 
   try:
     headers = {
