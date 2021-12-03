@@ -18,7 +18,7 @@ labels:
 An example of a widely used design pattern is a model view controller. This design pattern is often implemented in user interfaces and breaks it down into three components: model, view and a controller. 
 The model contains the information to be displayed, the viewer displays the model and changes based on user interaction and the controller determines what results from user interaction. An example from my own work would be the temperature notification system that I just set up. The viewer shows if a switch is on or off. <img <img class="ui huge rounded image" src="../images/viewer DesignP.PNG">
 
-It gets this information from an object that stores the state “ON” or “OFF”. <img class="ui huge right floated rounded image" src="../images/Model DesignP.PNG">
+It gets this information from an object that stores the state “ON” or “OFF”. <img class="ui huge rounded image" src="../images/Model DesignP.PNG">
 It is then checked by the controller to see if the state has changed or the temperature threshold had been reached. In this case input is collected from an external temperature sensor.
 
 ```py
@@ -74,3 +74,5 @@ while 0==0:
     print("openhab not running")
   time.sleep(5)
 ```
+
+These three parts work together 
