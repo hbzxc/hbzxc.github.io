@@ -17,4 +17,58 @@ An example of a widely used design pattern is a model view controller. This desi
 The model contains the information to be displayed, the viewer displays the model and changes based on user interaction and the controller determines what results from user interaction. An example from my own work would be the temperature notification system that I just set up. The viewer shows if a switch is on or off. <img class="ui medium right floated rounded image" src="../images/viewer DesignP.PNG">
 
 It gets this information from an object that stores the state “ON” or “OFF”. <img class="ui medium right floated rounded image" src="../images/Model DesignP.PNG">
-It is then checked by the controller to see if the state has changed or the temperature threshold had been reached. In this case input it collected from an external temperature sensor.
+It is then checked by the controller to see if the state has changed or the temperature threshold had been reached. In this case input is collected from an external temperature sensor.
+
+```py
+while 0==0:
+
+  # the sample method will take a single reading and return a
+  # compensated_reading object
+  bmeData = bme280.sample(bus, address, calibration_params)
+  tempF = (round(bmeData.temperature+1)*(9.0/5.0)+32)
+  print(tempF)
+  print(bmeData.temperature+1)
+  print(round(tempF))
+
+  try:
+    headers = {
+      'Accept': 'application/json',
+    }
+
+    requests.get('http://192.168.1.110:8080/rest/items/Alexa_TTS', headers=headers)
+    getStateTemp = requests.get('http://192.168.1.110:8080/rest/items/TempState', headers=headers)
+    if tempF < 70.0 and getStateTemp.json()["state"] == 'OFF':
+      try:
+        headers = {
+          'Content-Type': 'text/plain',
+          'Accept': 'application/json',
+        }
+        print(tempF)
+        temp = str(round(tempF))
+        #data = ('The temperature is: %s degrees' % temp)
+        data = ('Alert: The temperature has dropped below 70 degrees. Alert')
+        turnOn = 'ON'
+
+        requests.post('http://192.168.1.110:8080/rest/items/Alexa_TTS', headers=headers, data=data)
+        setState = requests.post('http://192.168.1.110:8080/rest/items/TempState', headers=headers, data=turnOn)
+      except:
+        print('not connected yet')
+    if tempF >= 70.0 and getStateTemp.json()["state"] == 'ON':
+      try:
+        headers = {
+          'Content-Type': 'text/plain',
+          'Accept': 'application/json',
+        }
+        print(tempF)
+        temp = str(round(tempF))
+        data = ('Alert: The temperature has risen above 70 degrees. Alert')
+        turnOff = 'OFF'
+
+        requests.post('http://192.168.1.110:8080/rest/items/Alexa_TTS', headers=headers, data=data)
+        setState = requests.post('http://192.168.1.110:8080/rest/items/TempState', headers=headers, data=turnOff)
+      except:
+        print('not connected yet')
+  except:
+    print("openhab not running")
+  time.sleep(5)
+```
