@@ -75,4 +75,4 @@ while 0==0:
   time.sleep(5)
 ```
 
-These three parts work together 
+These three parts work together to show if the temperature has surpassed 70F and if so announce it. Having these components seperated makes it easy to set up different variations. I also have a similar setup for my [desk light](https://hbzxc.github.io/projects/AutoLight) that uses the same viewer and model but a slightly different controller. Having that pattern already in place allowed me to set this up in less than an hour. Which was a considerable improvement from the first implementation. 
