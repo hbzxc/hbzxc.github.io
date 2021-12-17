@@ -58,10 +58,11 @@ Not too much going on.
 Mostly uses [semantic UI](https://semantic-ui.com/) to style most of the page, make buttons, dropdowns, color changes. There is some specific styling on the pages to adjust the margins and tweak the color of things to match but it is mostly semantic UI. It was great to be able to make a drop down menu quickly especially when making the filter on the favorites page.
 <img class="ui huge floated rounded image" src="../images/userFilter.PNG">
 
-The Pick for me button is my favorite feature. 
-<img class="ui huge right floated rounded image" src="../images/pick for me.PNG">
-Whenever I ask people where they want to eat I often hear “anything” or “I don’t know” so this is a great feature for me. Using the scroll wheel to have it randomize was initially not a planed feature but I forgot to pass it as a reference when I set everything up and now whenever anything renders it will also randomize. It wasn’t intended but I liked the effect so I didn’t fix it and it is now a feature.
 <img class="ui small right floated rounded image" src="../images/pickedMe.PNG">
+The Pick for me button is my favorite feature. 
+<img class="ui huge rounded image" src="../images/pick for me.PNG">
+Whenever I ask people where they want to eat I often hear “anything” or “I don’t know” so this is a great feature for me. Using the scroll wheel to have it randomize was initially not a planed feature but I forgot to pass it as a reference when I set everything up and now whenever anything renders it will also randomize. It wasn’t intended but I liked the effect so I didn’t fix it and it is now a feature.
+
 
 ## Working as a Group
 
