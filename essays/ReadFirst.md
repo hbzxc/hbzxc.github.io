@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: _ReadFirst
+title: _ReadMe
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-16
 labels:
   - ReadMe
 ---
-## ReadMe
 
 I have an issue with the grading of this page for ICS214
 
