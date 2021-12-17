@@ -67,7 +67,7 @@ Whenever I ask people where they want to eat I often hear “anything” or “I
 ## Working as a Group
 
 Everything was done through GitHub. Alex, Cole and I met weekly to discuss changes and go over what needed to be done. It was also typically when we merged all our code and deployed it to our server on [digital ocean](https://www.digitalocean.com/products/droplets/).
-<img class="ui small right floated rounded image" src="../images/Droplet.PNG">
+<img class="ui medium right floated rounded image" src="../images/Droplet.PNG">
 
 ## Testing
 
