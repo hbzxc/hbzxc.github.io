@@ -7,7 +7,7 @@ date: 2021-12-16
 labels:
   - ReadMe
 ---
-## Read this first
+## ReadMe
 
 I have an issue with the grading of this page for ICS214
 
