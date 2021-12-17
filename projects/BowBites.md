@@ -56,7 +56,7 @@ Not too much going on.
 ### Front end
 
 Mostly uses [semantic UI](https://semantic-ui.com/) to style most of the page, make buttons, dropdowns, color changes. There is some specific styling on the pages to adjust the margins and tweak the color of things to match but it is mostly semantic UI. It was great to be able to make a drop down menu quickly especially when making the filter on the favorites page.
-<img class="ui medium right floated rounded image" src="../images/userFilter.PNG">
+<img class="ui large floated rounded image" src="../images/userFilter.PNG">
 
 <img class="ui medium right floated rounded image" src="../images/pick for me.PNG">
 <img class="ui medium right floated rounded image" src="../images/pickedMe.PNG">
