@@ -46,17 +46,17 @@ I also made the user profile and add vendor pages. I implemented the favorite, u
 There were only two collections for this project one which held the vendors and menu items and the other which kept track of which vendors a specific user has liked.
 
 That hardest part about the vendor collection was figuring out how [uniforms](https://uniforms.tools/) was storing the vendor with the menu items to the db (It was an object which contained an object array). After that it was easy to pull and manipulate the data.
-<img class="ui medium floated rounded image" src="../images/venCol.PNG">
+<img class="ui huge floated rounded image" src="../images/venCol.PNG">
 
 For the liked user collection, it stores the users ID alongside an array of vendor IDs which correspond to what is liked.
-<img class="ui medium floated rounded image" src="../images/FavCol.PNG">
+<img class="ui huge floated rounded image" src="../images/FavCol.PNG">
 
 Not too much going on.
 
 ### Front end
 
 Mostly uses [semantic UI](https://semantic-ui.com/) to style most of the page, make buttons, dropdowns, color changes. There is some specific styling on the pages to adjust the margins and tweak the color of things to match but it is mostly semantic UI. It was great to be able to make a drop down menu quickly especially when making the filter on the favorites page.
-<img class="ui large floated rounded image" src="../images/userFilter.PNG">
+<img class="ui huge floated rounded image" src="../images/userFilter.PNG">
 
 <img class="ui medium right floated rounded image" src="../images/pick for me.PNG">
 <img class="ui medium right floated rounded image" src="../images/pickedMe.PNG">
