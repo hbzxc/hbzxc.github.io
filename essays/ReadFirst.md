@@ -8,7 +8,7 @@ labels:
   - ReadMe
 ---
 
-I have an issue with the grading of this page for ICS214
+I have an issue with the grading of this page for ICS314
 
 This portion was taken for the Exam details
 
