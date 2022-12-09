@@ -31,7 +31,7 @@ More specifics and pictures here: [bow-bites.github.io](https://bow-bites.github
 
 Code Here: [https://github.com/bow-bites/bow-bites](https://github.com/bow-bites/bow-bites)
 
-Site can be viewed Here: [bowbites.xyz](https://bowbites.xyz/#/)
+Site can be viewed Here (no longer up): [bowbites.xyz](https://bowbites.xyz/#/)
 
 This was a collaborative project between Alexander Jones [https://acjones8.github.io](https://acjones8.github.io/), Cole Amparo [https://coleamparo.github.io/](https://coleamparo.github.io/) and I.
 
