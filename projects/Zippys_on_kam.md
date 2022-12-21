@@ -23,7 +23,7 @@ Why did I make this? I thought it would be funny.
 
 This program was created using python, beautiful soup to scrape websites, plotly to visualize the data, and Bing maps get the geographic coordinates from the restaurant addresses.
 
-Visualization [https://zippys_on_kam-hblazier.pythonanywhere.com/](https://zippys_on_kam-hblazier.pythonanywhere.com/)
+Try it out: [https://zippys_on_kam-hblazier.pythonanywhere.com/](https://zippys_on_kam-hblazier.pythonanywhere.com/)
 
 How it works:
 
