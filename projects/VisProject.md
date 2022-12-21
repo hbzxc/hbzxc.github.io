@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/BeeScreenshot.png
 title: Neonicotinoids and Bees 
-permalink: projects/employeeDirectory
+permalink: projects/VisProject
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-08
 labels:
