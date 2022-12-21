@@ -15,7 +15,10 @@ summary: I made a program that will scrape the Zippys website to get restaurant 
 ---
 
 I made this program in two days instead of studying for a final.
-Is it useful? Not really and it only works with locations on Oahu. There are currently no air travel directions just driving instructions.
+
+Is it useful? Not really and it only works with locations on Oahu. 
+
+There are currently no air travel directions just driving instructions.
 
 Why did I make this? I thought it would be funny.
 
@@ -44,6 +47,9 @@ Address given but not route found
 
 Address given and route found
 <img class="ui image" src="{{ site.baseurl }}/images/Kam_Zip_valid.PNG">
+
+Close up of map
+<img class="ui image" src="{{ site.baseurl }}/images/Kam_Zip_Close.PNG">
 
 Code: [https://github.com/hbzxc/Zippys-on-Kam](https://github.com/hbzxc/Zippys-on-Kam)
 
