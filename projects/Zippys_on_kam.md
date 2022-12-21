@@ -42,9 +42,9 @@ no address given:
 Address given but not route found
 <img class="ui image" src="{{ site.baseurl }}/images/Kam_Zip_vaddress.PNG">
 
+Address given and route found
 <img class="ui image" src="{{ site.baseurl }}/images/Kam_Zip_valid.PNG">
 
-Address given and route found
 Code: [https://github.com/hbzxc/Zippys-on-Kam](https://github.com/hbzxc/Zippys-on-Kam)
 
 
