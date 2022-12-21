@@ -6,7 +6,7 @@
     "email": "hblazier@hawaii.edu",
     "phone": "N/A",
     "website": "https://hbzxc.github.io",
-    "summary": "I am recieved a degree in computer science at the University of Hawaii in 2022.",
+    "summary": "I recieved a degree in computer science at the University of Hawaii in 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -39,6 +39,7 @@
       "keywords": [
         "C",
         "C#",
+        "C++",
         "Python",
         "Power shell",
         "JavaScript",
