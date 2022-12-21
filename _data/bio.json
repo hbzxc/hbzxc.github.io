@@ -6,7 +6,7 @@
     "email": "hblazier@hawaii.edu",
     "phone": "N/A",
     "website": "https://hbzxc.github.io",
-    "summary": "I am currently pursuing a degree in computer science at the University of Hawaii and am expected to graduate in 2022.",
+    "summary": "I am recieved a degree in computer science at the University of Hawaii in 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -39,17 +39,19 @@
       "keywords": [
         "C",
         "C#",
-        "Python"
+        "Python",
+        "Power shell",
+        "JavaScript",
       ]
     },
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-08-27",
-      "endDate": "Present",
+      "endDate": "2022-12-17",
       "gpa": "",
       "courses": [
       ]
@@ -67,11 +69,19 @@
   ],
   "work": [
     {
+      "company": "Research Corperation of the University of Hawaii",
+      "position": "Student Assistant",
+      "website": "https://www.rcuh.com/",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
+      "summary": "3d printing parts, Conduct wave flume tests for a DARPA project to develop a living coastal protection system inspired by coral reefs "
+    },
+    {
       "company": "UH Manoa",
       "position": "Student Helper",
       "website": "https://www.soest.hawaii.edu/soestwp/",
       "startDate": "2020-10-01",
-      "endDate": "Present",
+      "endDate": "2022-07-05",
       "summary": "Setting up the website, proofreading papers and creating educational videos"
     },
     {
@@ -79,10 +89,12 @@
       "position": "IT Systems Specialist",
       "website": "http://www.gsi-companies.com/",
       "startDate": "2018-08-015",
-      "endDate": "Present",
+      "endDate": "2022-06-20",
       "summary": "Configuring new machines, setting up new users, troubleshooting and maintenance for existing systems.",
       "highlights": [
-        "Automating administrative tasks"
+        "Automating administrative tasks",
+        "Creating a program to image incoming computers",
+        "PowerShell automation of user onboarding and departures (AD/365)"
       ]
     },
     {
