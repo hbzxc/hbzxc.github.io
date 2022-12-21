@@ -42,7 +42,7 @@ The resulting coordinates are plotted and everything is mapped using plotly and 
 no address given:
 <img class="ui image" src="{{ site.baseurl }}/images/Kam_Zip_none.PNG">
 
-Address given but not route found
+Address given but no route found
 <img class="ui image" src="{{ site.baseurl }}/images/Kam_Zip_vaddress.PNG">
 
 Address given and route found
