@@ -13,6 +13,11 @@ labels:
 summary: This was made for a video game class. This was the first assignment to get aquainted with using unity
 ---
 <img class="ui medium right floated rounded image" src="../images/Duck Start screen.PNG">
+
+
+https://user-images.githubusercontent.com/37467710/218902438-0cd6c7d5-b5f5-469d-af62-8d5570717148.mp4
+
+
 In the game you are a farmer who needs to clear their field of a parasitic grass. 
 If you fail to clear out enough your crops will die and you won’t make it through the winter
 
