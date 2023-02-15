@@ -24,6 +24,6 @@ Everything was done in unity which uses C#
 A duck was chosen as the controled character since the shape was simple to make.
 I had previously implemented a slicing mechanic in a previous project and wanted to show that off since it was fun to use.
 
-[![Watch the video]("{{ site.baseurl }}/images/youtubeDuck.PNG")](https://www.youtube.com/watch?v=JDVhPTav7Po)
+[![Watch the video](https://raw.githubusercontent.com/hbzxc/hbzxc.github.io/master/images/youtubeDuck.PNG)](https://www.youtube.com/watch?v=JDVhPTav7Po)
 
 I made all of the assets including the sound and music.
