@@ -5,7 +5,7 @@ image: images/SmmothieFinderHome.PNG
 title: Smoothie Finder
 permalink: projects/SmoothieFinder
 # All dates must be YYYY-MM-DD format!
-date: 2023-07-010
+date: 2023-07-10
 labels:
   - Python
   - Maps
