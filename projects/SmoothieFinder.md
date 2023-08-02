@@ -15,7 +15,7 @@ summary: I a great smoothie and wanted to find more
 
 Here is a link to the program [http://smoothiepls.pythonanywhere.com/](http://smoothiepls.pythonanywhere.com/).
 
-<img class="ui medium right floated rounded image" src="../images/SmoothieFinderHome.PNG">
+<img class="ui medium right floated rounded image" src="../images/SmmothieFinderHome.PNG">
 
 I had a great smoothie while visting friends from a chain I had nver heard of, Tropical Smoothie cafe.
 
