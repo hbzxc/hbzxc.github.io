@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/SmmothieFinderHome.PNG
-title: SmoothieFinder
+title: Smoothie Finder
 permalink: projects/SmoothieFinder
 # All dates must be YYYY-MM-DD format!
 date: 2023-07-010
