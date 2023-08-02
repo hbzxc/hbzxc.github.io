@@ -23,7 +23,7 @@ In addition to this it can also backup a users onedrive to an external location.
 
 Checks if an admin credential has been saved, if not prompt to set one up
 
-Display the options menu
+Display the options  menu
 
 Go to the selected option and loop
 
