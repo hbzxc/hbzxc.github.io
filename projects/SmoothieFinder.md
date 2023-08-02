@@ -15,7 +15,7 @@ summary: I a great smoothie and wanted to find more
 
 Here is a link to the program [http://smoothiepls.pythonanywhere.com/](http://smoothiepls.pythonanywhere.com/).
 
-<img class="ui image" src="{{ site.baseurl }}/images/SmoothieFinderHome.PNG">
+<img class="ui medium right floated rounded image" src="../images/SmoothieFinderHome.PNG">
 
 I had a great smoothie while visting friends from a chain I had nver heard of, Tropical Smoothie cafe.
 
@@ -35,10 +35,10 @@ Which was great for me since I didnt have to change any of the code I wrote to e
 After addresses were extracted I used Bing maps reverse geolocation to get coordinated to pair with each location.
 
 Each coordinate pair is then plotted on a map and clustered by company.
-<img class="ui image" src="{{ site.baseurl }}/images/clusterExample.PNG">
+<img class="ui medium right floated rounded image" src="../images/clusterExample.PNG">
 
 To find routes I calculated the closest store locations and chose the shortest straight line route. Then fed the starting location and end location coordinated into Bing maps API to get a driving route to over lay on the map.
-<img class="ui image" src="{{ site.baseurl }}/images/driving_route_example.PNG">
+<img class="ui medium right floated rounded image" src="../images/driving_route_example.PNG">
 
 Repository is here [https://github.com/hbzxc/Smoothie_finder](https://github.com/hbzxc/Smoothie_finder).
 
